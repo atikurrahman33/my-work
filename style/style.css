@@ -3,4 +3,7 @@ div{
     background-color: tomato;
     font-size: larger;
     margin-top: 10px;
+    RED{
+        font-display:blue;
+    }
 }
